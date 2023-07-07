@@ -36,3 +36,9 @@ Fig. 1. A: The most frequent 50 words in NFT ethics related tweets; B: Top keywo
 Fig. 2. Network Visualization: Opinion Leaders in NFT Marketplace. Label size reflects eigenvector centrality. Node size reflects
 follower count. Node colors represent detected communities
 ![Network Visualization: Opinion Leaders in NFT Marketplace.](https://github.com/PlevanTem/NFT-cscw-2023/blob/main/graphs%20%26%20figures/NFTnetwork_generatedByGephi_ForceAtlas_labelbyPhotoShop.png)
+
+Fig. S1. Top 20 topics of thematic analysis from KOLs (visualized based on [thematic codebook](https://github.com/PlevanTem/NFT-cscw-2023/blob/main/randomized/thematic%20analysis%20of%20NFT%20KOL%20and%20%20public%20tweets.xlsx))
+![Top 20 topics of thematic analysis from KOLs.](https://github.com/PlevanTem/NFT-cscw-2023/blob/main/graphs%20%26%20figures/Top%2020%20topics%20of%20themetic%20analysis%20from%20KOLs.png)
+
+Fig. S2. Top 20 topics of thematic analysis from ordinary users (visualized based on [thematic codebook](https://github.com/PlevanTem/NFT-cscw-2023/blob/main/randomized/thematic%20analysis%20of%20NFT%20KOL%20and%20%20public%20tweets.xlsx))
+![Top 20 topics of thematic analysis from ordinary users.](https://github.com/PlevanTem/NFT-cscw-2023/blob/main/graphs%20%26%20figures/Top%2020%20topics%20of%20themetic%20analysis%20from%20ordinary%20users.png)
