@@ -35,4 +35,4 @@ Fig. 1. A: The most frequent 50 words in NFT ethics related tweets; B: Top keywo
 
 Fig. 2. Network Visualization: Opinion Leaders in NFT Marketplace. Label size reflects eigenvector centrality. Node size reflects
 follower count. Node colors represent detected communities
-![Network Visualization: Opinion Leaders in NFT Marketplace.]()
+![Network Visualization: Opinion Leaders in NFT Marketplace.](https://github.com/PlevanTem/NFT-cscw-2023/blob/main/graphs%20%26%20figures/NFTnetwork_generatedByGephi_ForceAtlas_labelbyPhotoShop.png)
