@@ -1,7 +1,13 @@
 # "Centralized or Decentralized?": Concerns and Value Judgents of Stakeholders in the Non-Fungible Tokens (NFTs) Market
 
 ## *Supplementary resources, data, and code*
-by **Author names**
+by **Yunpeng Xiao,
+Bufan Deng,
+Siqi Chen,
+Kyrie Zhixuan Zhou,
+Dr. Luyao Zhang,
+RAY LC,
+Xin Tong**
 
 (* *corresponding authors*)
 
