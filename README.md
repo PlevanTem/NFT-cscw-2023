@@ -8,7 +8,8 @@ Kyrie Zhixuan Zhou,
 RAY LC,
 Luyao Zhang*,
 Xin Tong*
-(*corresponding authors*)
+
+(\**corresponding authors*)
 
 # Table of Contents
 ## Data
