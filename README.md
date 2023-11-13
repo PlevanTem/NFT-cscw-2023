@@ -8,7 +8,7 @@ This repository contains supplementary resources, data, and code related to the 
 
 > Our datasets, metadata information, and data dictionary are open access on Harvard Dataverse.
 > 
-> [*Xiao, Yunpeng; Deng, Bufan; Chen, Siqi; Zhou, Kyrie Zhixuan; LC, RAY; Zhang, Luyao; Tong, Xin, 2023, "Replication Data for: "Centralized or Decentralized?": Concerns and Value Judgments of Stakeholders in the Non-Fungible Tokens (NFTs) Market",*](https://doi.org/10.7910/DVN/GLFUPA) *Harvard Dataverse, V1.*
+> *Xiao, Yunpeng; Deng, Bufan; Chen, Siqi; Zhou, Kyrie Zhixuan; LC, RAY; Zhang, Luyao; Tong, Xin, 2023, "Replication Data for: "Centralized or Decentralized?": Concerns and Value Judgments of Stakeholders in the Non-Fungible Tokens (NFTs) Market." [https://doi.org/10.7910/DVN/GLFUPA](https://doi.org/10.7910/DVN/GLFUPA). Harvard Dataverse, V1.*
 
 
 ### Table of Contents
